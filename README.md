@@ -26,6 +26,8 @@ Hey! I am going to leave here the solutions to the [**Advent of Code 2024**](htt
 I will solve the puzzles in python notebooks 
 
 - Day 1 (December 1, 2024): Historian Hysteria. [Puzzle](https://adventofcode.com/2024/day/1) - [Solution](notebooks/01_historian_hysteria.ipynb).
+- Day 2 (December 2, 2024): Red-Nosed Reports. [Puzzle](https://adventofcode.com/2024/day/2) - [Solution](notebooks/02_red-nosed_reports.ipynb).
+- Day 3 (December 3, 2024): Mull It Over. [Puzzle](https://adventofcode.com/2024/day/3) - [Solution](notebooks/03_mull_it_over.ipynb).
 
 
 ## Author
