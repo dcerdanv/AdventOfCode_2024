@@ -28,6 +28,8 @@ I will solve the puzzles in python notebooks
 - Day 1 (December 1, 2024): Historian Hysteria. [Puzzle](https://adventofcode.com/2024/day/1) - [Solution](notebooks/01_historian_hysteria.ipynb).
 - Day 2 (December 2, 2024): Red-Nosed Reports. [Puzzle](https://adventofcode.com/2024/day/2) - [Solution](notebooks/02_red-nosed_reports.ipynb).
 - Day 3 (December 3, 2024): Mull It Over. [Puzzle](https://adventofcode.com/2024/day/3) - [Solution](notebooks/03_mull_it_over.ipynb).
+- Day 4 (December 4, 2024): Ceres Search. [Puzzle](https://adventofcode.com/2024/day/4) - [Solution](notebooks/04_ceres_search.ipynb).
+- Day 5 (December 5, 2024): Print Queue. [Puzzle](https://adventofcode.com/2024/day/5) - [Solution](notebooks/05_print_queue.ipynb).
 
 
 ## Author
